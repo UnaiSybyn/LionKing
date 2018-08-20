@@ -2,6 +2,12 @@ div{
 	
 	height:400px;
 	width:400px;
-	background-color: black;
+	background-color: green;
 	color:yellow;
+}
+
+body{
+
+	background-color: black;
+	color:salmon;
 }
